@@ -1,2 +1,2 @@
-# -ReceptorFM_SDR_HackRF
-Receptor FM de banda angosta
+# ReceptorFM_SDR_HackRF
+Receptor FM de banda angosta con HackRF
